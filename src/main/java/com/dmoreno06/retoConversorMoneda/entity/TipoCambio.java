@@ -1,8 +1,5 @@
 package com.dmoreno06.retoConversorMoneda.entity;
 
-
-
-
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

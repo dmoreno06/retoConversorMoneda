@@ -1,7 +1,6 @@
 package com.dmoreno06.retoConversorMoneda.dto;
 
 
-import java.math.BigDecimal;
 public class MonedaDTO {
     private String codigo;
     private String descripcion;

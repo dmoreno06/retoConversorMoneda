@@ -1,7 +1,5 @@
 package com.dmoreno06.retoConversorMoneda.dto.Response;
 
-import com.dmoreno06.retoConversorMoneda.dto.TrazabilidadDTO;
-
 import java.math.BigDecimal;
 
 public class ConvertirMonedaResponse{
